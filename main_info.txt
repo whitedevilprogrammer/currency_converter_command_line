@@ -1,0 +1,61 @@
+Euro	0.859912	1.162910
+British Pound	0.745824	1.340800
+Indian Rupee	86.149382	0.011608
+Australian Dollar	1.536598	0.650788
+Canadian Dollar	1.375664	0.726922
+Singapore Dollar	1.284254	0.778662
+Swiss Franc	0.802502	1.246102
+Malaysian Ringgit	4.246097	0.235510
+Japanese Yen	148.826451	0.006719
+Chinese Yuan Renminbi	7.181295	0.139251
+Argentine Peso	1285.495747	0.000778
+Australian Dollar	1.536598	0.650788
+Bahraini Dinar	0.376000	2.659574
+Botswana Pula	13.956505	0.071651
+Brazilian Real	5.579873	0.179216
+Bruneian Dollar	1.284254	0.778662
+Bulgarian Lev	1.681841	0.594586
+Canadian Dollar	1.375664	0.726922
+Chilean Peso	963.967892	0.001037
+Chinese Yuan Renminbi	7.181295	0.139251
+Colombian Peso	4012.528354	0.000249
+Czech Koruna	21.199512	0.047171
+Danish Krone	6.420659	0.155747
+Euro	0.859912	1.162910
+Hong Kong Dollar	7.847348	0.127432
+Hungarian Forint	343.232482	0.002913
+Icelandic Krona	122.445869	0.008167
+Indian Rupee	86.149382	0.011608
+Indonesian Rupiah	16322.803522	0.000061
+Iranian Rial	42118.575853	0.000024
+Israeli Shekel	3.361424	0.297493
+Japanese Yen	148.826451	0.006719
+Kazakhstani Tenge	532.117883	0.001879
+South Korean Won	1389.975696	0.000719
+Kuwaiti Dinar	0.305637	3.271852
+Libyan Dinar	5.429933	0.184164
+Malaysian Ringgit	4.246097	0.235510
+Mauritian Rupee	45.687348	0.021888
+Mexican Peso	18.737416	0.053369
+Nepalese Rupee	137.903624	0.007251
+New Zealand Dollar	1.677299	0.596197
+Norwegian Krone	10.182199	0.098211
+Omani Rial	0.384763	2.599001
+Pakistani Rupee	284.945680	0.003509
+Philippine Peso	57.119253	0.017507
+Polish Zloty	3.652680	0.273772
+Qatari Riyal	3.640000	0.274725
+Romanian New Leu	4.364197	0.229137
+Russian Ruble	78.523635	0.012735
+Saudi Arabian Riyal	3.750000	0.266667
+Singapore Dollar	1.284254	0.778662
+South African Rand	17.724736	0.056418
+Sri Lankan Rupee	301.617288	0.003315
+Swedish Krona	9.670928	0.103403
+Swiss Franc	0.802502	1.246102
+Taiwan New Dollar	29.410501	0.034001
+Thai Baht	32.384519	0.030879
+Trinidadian Dollar	6.787963	0.147320
+Turkish Lira	40.394166	0.024756
+Emirati Dirham	3.672500	0.272294
+British Pound	0.745824	1.340800
